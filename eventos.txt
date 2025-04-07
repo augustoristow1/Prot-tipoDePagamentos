@@ -1,0 +1,13 @@
+2024-11-28 10:47:32 - Conta corrente aberta com sucesso para gustavo | Número da Conta: 1
+2024-11-28 10:48:03 - Conta corrente aberta com sucesso para augusto | Número da Conta: 2
+2024-11-28 11:00:04 - Conta corrente aberta com sucesso para Gustavo | Número da Conta: 1
+2024-11-28 11:51:14 - Conta corrente aberta com sucesso para Gustavo | Número da Conta: 1
+2024-11-28 11:51:39 - Conta buscada com sucesso: Número 1
+2024-11-28 11:55:24 - Conta corrente aberta com sucesso para gustavo | Número da Conta: 1
+2024-11-28 11:59:13 - Conta corrente aberta com sucesso para augusto | Número da Conta: 1
+2024-11-28 12:04:01 - Conta corrente aberta com sucesso para gustavo | Número da Conta: 1
+2024-11-28 12:19:51 - Conta corrente aberta com sucesso para Jose | Número da Conta: 2
+2024-11-28 12:37:45 - Conta corrente aberta com sucesso para augusto | Número da Conta: 3
+2025-03-31 10:10:13 - Conta corrente aberta com sucesso para Leticia | Número da Conta: 4
+2025-03-31 10:10:59 - Conta buscada com sucesso: Número 4
+2025-03-31 10:12:01 - Conta corrente aberta com sucesso para Fernando | Número da Conta: 5
